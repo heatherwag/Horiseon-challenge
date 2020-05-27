@@ -8,6 +8,9 @@ Description:
 Live URL:
     https://heatherwag.github.io/Horiseon-challenge/
     
+Screenshot:
+    ![](assets/images/screencapture-Horiseon-.png)
+    
 
 
 
